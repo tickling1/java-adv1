@@ -1,5 +1,7 @@
 package thread.start;
 
+import static util.MyLogger.log;
+
 public class HelloRunnable implements Runnable {
 
     @Override
